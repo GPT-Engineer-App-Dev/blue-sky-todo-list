@@ -19,7 +19,7 @@ const Index = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-blue-500">
+    <div className="min-h-screen flex items-center justify-center bg-yellow-400">
       <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
         <h1 className="text-3xl font-bold mb-6 text-center">Todo App</h1>
         <div className="flex mb-4">
